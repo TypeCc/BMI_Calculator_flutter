@@ -33,3 +33,11 @@ thx angela
 License
 
 This project is licensed under the MIT License. Feel free to use and modify this project for personal or commercial purposes. If you have any questions or suggestions, please feel free to contact me.
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-09 at 00 19 01](https://github.com/TypeCc/BMI_Calculator_flutter/assets/118025810/a1a59b40-7705-4f1d-8114-b91a79e7cd59)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-09 at 00 18 36](https://github.com/TypeCc/BMI_Calculator_flutter/assets/118025810/46ab0756-de3c-44ae-b9e8-15803e42430b)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-09 at 00 18 29](https://github.com/TypeCc/BMI_Calculator_flutter/assets/118025810/38c1ccf3-bc2c-49b0-a19a-12f4da79bb47)
+
+
